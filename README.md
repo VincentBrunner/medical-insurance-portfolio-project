@@ -1,2 +1,2 @@
-# medical insurance data science portfolio project
+# medical insurance portfolio project
  
